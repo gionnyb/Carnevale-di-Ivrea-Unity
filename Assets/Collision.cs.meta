@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 1b08380335a745d4b88e656d956e71f0
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - GameControlObject: {fileID: 100000, guid: 1602b155bdc5a7a44a88c1e6b0e2a995, type: 2}
+  - ExplotionAudio: {fileID: 8300000, guid: 24bf9a585b78eb64ab4b5c93848476d8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b072f603f7589034f8bb42457fd275a0
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - startPosition: {instanceID: 0}
+  - ShotJoystick: {instanceID: 0}
+  - ShotParticle: {instanceID: 0}
+  - Gui: {instanceID: 0}
+  - myTarget: {instanceID: 0}
+  - myTargetSphere: {instanceID: 0}
+  - theBullet: {fileID: 100000, guid: cc81e365275789547b82a08d633259ec, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

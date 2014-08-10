@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 715dad520d9f0b343a2d984abe59f2e0
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ominoMarerial: {fileID: 2100000, guid: c245035b54607044ca6b2701a9dbf93b, type: 2}
+  - carroMarerial: {fileID: 2100000, guid: d92544347a5629c49b3d530ddabb5abe, type: 2}
+  - Guitimer: {instanceID: 0}
+  - Guiscore: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
